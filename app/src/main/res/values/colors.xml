@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main">#673AB7</color>
+    <color name="list">#503383</color>
+    <color name="listItem">#9870DE</color>
+    <color name="button1">#3F51B5</color>
+    <color name="button2">#2196F3</color>
+
+    <color name="winter">#00A8FF</color> <!-- Колір для зими -->
+    <color name="spring">#00FF7F</color> <!-- Колір для весни -->
+    <color name="summer">#FF6347</color> <!-- Колір для літа -->
+    <color name="autumn">#FFD700</color> <!-- Колір для осені -->
+
+    <color name="color1">#FF4500</color> <!-- Колір для першого елемента -->
+    <color name="color2">#32CD32</color> <!-- Колір для другого елемента -->
+    <color name="color3">#1E90FF</color> <!-- Колір для третього елемента -->
+
+    <!-- Фони для груп -->
+    <color name="winterBackground">#B3D9FF</color> <!-- Зимовий фон -->
+    <color name="springBackground">#B3FFCC</color> <!-- Весняний фон -->
+    <color name="summerBackground">#FFB6C1</color> <!-- Літній фон -->
+    <color name="autumnBackground">#FFD700</color> <!-- Осінній фон -->
+    <color name="lavander">#8F78BA</color>
+
+    <color name="summerBackground2">#BD727D</color> <!-- Літній фон -->
+
+    <!-- Фони для елементів -->
+    <color name="childBackground1">#FFEB3B</color> <!-- Фон для першого елемента -->
+    <color name="childBackground2">#8BC34A</color> <!-- Фон для другого елемента -->
+    <color name="childBackground3">#FF5722</color> <!-- Фон для третього елемента -->
+</resources>
